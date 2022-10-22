@@ -1,0 +1,110 @@
+/**@desc Futura Paneuropean font css schema*/
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanBold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanExtraBold.ttf");
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanExtraBoldItalic.ttf");
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanBold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanBoldItalic.ttf");
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanBold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanBold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanHeavy.ttf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanHeavyItalic.ttf");
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanMedium.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanMediumItalic.ttf");
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanBook.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanBookItalic.ttf");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanLight.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanLightItalic.ttf");
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanBook.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "FuturaLTPaneuropean";
+    src: url("FuturaLTPaneuropeanBookItalic.ttf");
+    font-weight: normal;
+    font-style: italic;
+}

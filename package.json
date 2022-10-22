@@ -1,0 +1,56 @@
+{
+  "name": "shud",
+  "version": "1.0.0",
+  "description": "shud demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yormungand/shud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yormungand/shud/issues"
+  },
+  "homepage": "https://github.com/Yormungand/shud#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.13",
+    "@babel/preset-env": "^7.18.10",
+    "@babel/register": "^7.18.9",
+    "autoprefixer": "^10.4.8",
+    "browser-sync": "^2.27.10",
+    "cssnano": "^5.1.13",
+    "del": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^5.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8",
+    "postcss": "^8.4.16",
+    "postcss-clean": "^1.2.2",
+    "postcss-preset-env": "^7.8.0",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "browserslist": "^4.21.3",
+    "gsap": "^3.11.0",
+    "perfect-scrollbar": "^1.5.5",
+    "swiper": "^8.3.2",
+    "uikit": "^3.15.5"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "IE 11"
+  ]
+}
